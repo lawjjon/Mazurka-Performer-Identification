@@ -1,0 +1,221 @@
+opus,key,performer,year,time,seconds,label,pid,status,piece_path,performer_label
+59.1,A min,Ashkenazy,1999,4:05,245,Decca SACD 470 608-2,918821-09,-,mazurka59-1/pid918821-09,0
+59.2,A maj,Ashkenazy,1972,2:35,155,Philips 456 715-2 ,5667207-03,-,mazurka59-2/pid5667207-03,0
+59.2,A maj,Ashkenazy,1999,2:25,145,Decca SACD 470 608-2,918821-10,-,mazurka59-2/pid918821-10,0
+59.3,F# min,Ashkenazy,1999,3:12,192,Decca SACD 470 608-2,918821-11,-,mazurka59-3/pid918821-11,0
+17.1,B maj,Bacha,1998,1:54,114,Forlane 126817,9166d-17,-,mazurka17-1/pid9166d-17,1
+17.2,E min,Bacha,1998,2:03,123,Forlane 126817,9166d-18,-,mazurka17-2/pid9166d-18,1
+17.3,A maj,Bacha,1998,4:38,278,Forlane 126817,9166d-19,-,mazurka17-3/pid9166d-19,1
+17.4,A min,Bacha,1998,4:09,249,Forlane 126817,9166d-20,-,mazurka17-4/pid9166d-20,1
+24.1,G min,Bacha,1998,2:49,169,Forlane 126817,9166e-07,-,mazurka24-1/pid9166e-07,1
+24.2,C maj,Bacha,1998,2:01,121,Forlane 126817,9166e-08,-,mazurka24-2/pid9166e-08,1
+24.3,A maj,Bacha,1998,2:11,131,Forlane 126817,9166e-09,-,mazurka24-3/pid9166e-09,1
+24.4,B min,Bacha,1998,4:41,281,Forlane 126817,9166e-10,-,mazurka24-4/pid9166e-10,1
+67.1,G maj,Bacha,1998,1:12,72,Forlane 126817,9166e-16,-,mazurka67-1/pid9166e-16,1
+67.3,C maj,Bacha,1998,1:31,91,Forlane 126817,9166e-15,-,mazurka67-3/pid9166e-15,1
+68.2,A min,Bacha,1996,2:35,155,Forlane 126817,9166-11,-,mazurka68-2/pid9166-11,1
+24.1,G min,Cortot,1957,1:23,83,Sony Classical S3K89698,9107c-07,-,mazurka24-1/pid9107c-07,2
+24.2,C maj,Cortot,1957,1:20,80,Sony Classical S3K89698,9107c-08,-,mazurka24-2/pid9107c-08,2
+24.4,B min,Cortot,1957,2:08,128,Sony Classical S3K89698,9107c-09,-,mazurka24-4/pid9107c-09,2
+30.1,C min,Cortot,1957,1:31,91,Sony Classical S3K89698,9107c-10,-,mazurka30-1/pid9107c-10,2
+30.2,B min,Cortot,1957,1:09,69,Sony Classical S3K89698,9107c-11,-,mazurka30-2/pid9107c-11,2
+7.1,B maj,Czerny-Stefanska,1949,2:14,134,Muza PNCD002,9086-05,-,mazurka07-1/pid9086-05,3
+17.4,A min,Czerny-Stefanska,1949,3:49,229,Muza PNCD006,9085-15,precor,mazurka17-4/pid9085-15,3
+17.4,A min,Czerny-Stefanska,1949,3:59,239,Muza PNCD002,9086-07,precor,mazurka17-4/pid9086-07,3
+33.2,D maj,Czerny-Stefanska,1949,2:05,125,Muza PNCD002,9086-04,-,mazurka33-2/pid9086-04,3
+33.2,D maj,Czerny-Stefanska,1949,2:07,127,Muza PNCD006,9085-14,-,mazurka33-2/pid9085-14,3
+63.3,C# min,Czerny-Stefanska,1949,2:13,133,Muza PNCD006,9085-16,precor,mazurka63-3/pid9085-16,3
+67.4,A min,Czerny-Stefanska,1949,2:38,158,Muza PNCD006,9085-17,-,mazurka67-4/pid9085-17,3
+68.1,C maj,Czerny-Stefanska,1949,1:41,101,Muza PNCD006,9085-18,-,mazurka68-1/pid9085-18,3
+68.1,C maj,Czerny-Stefanska,1949,1:46,106,Muza PNCD002,9086-06,-,mazurka68-1/pid9086-06,3
+68.2,A min,Czerny-Stefanska,1949,3:01,181,Muza PNCD006,9085-19,-,mazurka68-2/pid9085-19,3
+7.1,B maj,Ferenczy,1957,2:23,143,Hungaroton HCD 32121,9097-08,-,mazurka07-1/pid9097-08,4
+24.3,A maj,Ferenczy,1957,2:30,150,Hungaroton HCD 32121,9097-07,-,mazurka24-3/pid9097-07,4
+56.3,C min,Fou,1955,5:30,330,Muza PNCD006,9085-20,-,mazurka56-3/pid9085-20,6
+59.1,A min,Fou,1955,3:38,218,Muza PNCD006,9085-21,-,mazurka59-1/pid9085-21,6
+68.4,F min,Fou,1955,1:57,117,Muza PNCD006,9085-22,-,mazurka68-4/pid9085-22,6
+7.1,B maj,Francois,1966,1:12,72,EMI 724382669029,9051-09,-,mazurka07-1/pid9051-09,7
+7.2,A min,Francois,1966,1:26,86,EMI 724382669029,9051-10,tap20,mazurka07-2/pid9051-10,7
+7.3,F min,Francois,1966,2:11,131,EMI 724382669029,9051-11,-,mazurka07-3/pid9051-11,7
+30.3,D maj,Francois,1966,2:23,143,EMI 724382669029,9051-12,-,mazurka30-3/pid9051-12,7
+6.1,F# min,Hatto,1993,2:59,179,Con. Artist FED4-TC-0116/7,610003-03,-,mazurka06-1/pid610003-03,9
+6.2,C# min,Hatto,1993,2:48,168,Con. Artist FED4-TC-0116/7,610003-04,-,mazurka06-2/pid610003-04,9
+6.3,E maj,Hatto,1993,1:55,115,Con. Artist FED4-TC-0116/7,610003-05,-,mazurka06-3/pid610003-05,9
+6.4,E min,Hatto,1993,0:45,45,Con. Artist FED4-TC-0116/7,610003-06,-,mazurka06-4/pid610003-06,9
+7.1,B maj,Hatto,1993,2:27,147,Con. Artist FED4-TC-0116/7,610003-07,-,mazurka07-1/pid610003-07,9
+7.2,A min,Hatto,1993,3:25,205,Con. Artist FED4-TC-0116/7,610003-08,-,mazurka07-2/pid610003-08,9
+7.3,F min,Hatto,1993,2:28,148,Con. Artist FED4-TC-0116/7,610003-09,-,mazurka07-3/pid610003-09,9
+7.4,A maj,Hatto,1993,1:12,72,Con. Artist FED4-TC-0116/7,610003-10,-,mazurka07-4/pid610003-10,9
+7.5,C maj,Hatto,1993,0:33,33,Con. Artist FED4-TC-0116/7,610003-11,-,mazurka07-5/pid610003-11,9
+17.1,B maj,Hatto,1993,2:26,146,Con. Artist FED4-TC-0116/7,610003-12,-,mazurka17-1/pid610003-12,9
+17.2,E min,Hatto,1993,2:07,127,Con. Artist FED4-TC-0116/7,610003-13,-,mazurka17-2/pid610003-13,9
+17.3,A maj,Hatto,1993,3:34,214,Con. Artist FED4-TC-0116/7,610003-14,-,mazurka17-3/pid610003-14,9
+17.4,A min,Hatto,1993,4:46,286,Con. Artist FED4-TC-0116/7,610003-15,-,mazurka17-4/pid610003-15,9
+24.1,G min,Hatto,1993,3:09,189,Con. Artist FED4-TC-0116/7,610003-16,-,mazurka24-1/pid610003-16,9
+24.2,C maj,Hatto,1993,2:39,159,Con. Artist FED4-TC-0116/7,610003-17,-,mazurka24-2/pid610003-17,9
+24.3,A maj,Hatto,1993,1:44,104,Con. Artist FED4-TC-0116/7,610003-18,-,mazurka24-3/pid610003-18,9
+24.4,B min,Hatto,1993,5:26,326,Con. Artist FED4-TC-0116/7,610003-19,-,mazurka24-4/pid610003-19,9
+30.1,C min,Hatto,1993,1:45,105,Con. Artist FED4-TC-0116/7,610003-20,-,mazurka30-1/pid610003-20,9
+30.2,B min,Hatto,1993,1:31,91,Con. Artist FED4-TC-0116/7,610003-21,-,mazurka30-2/pid610003-21,9
+30.3,D maj,Hatto,1993,2:58,178,Con. Artist FED4-TC-0116/7,610003-22,-,mazurka30-3/pid610003-22,9
+30.4,C# min,Hatto,1993,4:16,256,Con. Artist FED4-TC-0116/7,610003-23,-,mazurka30-4/pid610003-23,9
+33.1,G# min,Hatto,1993,1:55,115,Con. Artist FED4-TC-0116/7,610003-24,-,mazurka33-1/pid610003-24,9
+33.2,D maj,Hatto,1993,2:35,155,Con. Artist FED4-TC-0116/7,610003-25,-,mazurka33-2/pid610003-25,9
+33.3,C maj,Hatto,1993,2:18,138,Con. Artist FED4-TC-0116/7,610003-26,-,mazurka33-3/pid610003-26,9
+33.4,B min,Hatto,1993,5:27,327,Con. Artist FED4-TC-0116/7,610003-27,-,mazurka33-4/pid610003-27,9
+41.1,C# min,Hatto,1993,3:34,214,Con. Artist FED4-TC-0116/7,610003b-01,-,mazurka41-1/pid610003b-01,9
+41.2,E min,Hatto,1993,2:37,157,Con. Artist FED4-TC-0116/7,610003b-02,-,mazurka41-2/pid610003b-02,9
+41.3,B maj,Hatto,1993,1:23,83,Con. Artist FED4-TC-0116/7,610003b-03,-,mazurka41-3/pid610003b-03,9
+41.4,A maj,Hatto,1993,1:52,112,Con. Artist FED4-TC-0116/7,610003b-04,-,mazurka41-4/pid610003b-04,9
+50.1,G maj,Hatto,1993,2:19,139,Con. Artist FED4-TC-0116/7,610003b-05,-,mazurka50-1/pid610003b-05,9
+50.2,A maj,Hatto,1993,3:11,191,Con. Artist FED4-TC-0116/7,610003b-06,-,mazurka50-2/pid610003b-06,9
+50.3,C# min,Hatto,1993,5:23,323,Con. Artist FED4-TC-0116/7,610003b-07,-,mazurka50-3/pid610003b-07,9
+56.1,B maj,Hatto,1993,4:07,247,Con. Artist FED4-TC-0116/7,610003b-08,-,mazurka56-1/pid610003b-08,9
+56.2,C maj,Hatto,1993,1:48,108,Con. Artist FED4-TC-0116/7,610003b-09,-,mazurka56-2/pid610003b-09,9
+56.3,C min,Hatto,1993,6:46,406,Con. Artist FED4-TC-0116/7,610003b-10,-,mazurka56-3/pid610003b-10,9
+59.1,A min,Hatto,1993,4:18,258,Con. Artist FED4-TC-0116/7,610003b-11,-,mazurka59-1/pid610003b-11,9
+59.2,A maj,Hatto,1993,2:40,160,Con. Artist FED4-TC-0116/7,610003b-12,-,mazurka59-2/pid610003b-12,9
+59.3,F# min,Hatto,1993,3:35,215,Con. Artist FED4-TC-0116/7,610003b-13,-,mazurka59-3/pid610003b-13,9
+63.1,B maj,Hatto,1993,1:57,117,Con. Artist FED4-TC-0116/7,610003b-14,-,mazurka63-1/pid610003b-14,9
+63.2,F min,Hatto,1993,2:08,128,Con. Artist FED4-TC-0116/7,610003b-15,-,mazurka63-2/pid610003b-15,9
+63.3,C# min,Hatto,1993,2:22,142,Con. Artist FED4-TC-0116/7,610003b-16,-,mazurka63-3/pid610003b-16,9
+67.1,G maj,Hatto,1993,1:16,76,Con. Artist FED4-TC-0116/7,610003b-17,-,mazurka67-1/pid610003b-17,9
+67.2,G min,Hatto,1993,1:48,108,Con. Artist FED4-TC-0116/7,610003b-18,-,mazurka67-2/pid610003b-18,9
+67.3,C maj,Hatto,1993,1:22,82,Con. Artist FED4-TC-0116/7,610003b-19,-,mazurka67-3/pid610003b-19,9
+67.4,A min,Hatto,1993,2:53,173,Con. Artist FED4-TC-0116/7,610003b-20,-,mazurka67-4/pid610003b-20,9
+68.1,C maj,Hatto,1993,1:43,103,Con. Artist FED4-TC-0116/7,610003b-21,-,mazurka68-1/pid610003b-21,9
+68.2,A min,Hatto,1993,3:25,205,Con. Artist FED4-TC-0116/7,610003b-22,-,mazurka68-2/pid610003b-22,9
+68.3,F maj,Hatto,1993,1:48,108,Con. Artist FED4-TC-0116/7,610003b-23,-,mazurka68-3/pid610003b-23,9
+68.4,F min,Hatto,1993,2:07,127,Con. Artist FED4-TC-0116/7,610003b-24,-,mazurka68-4/pid610003b-24,9
+41.1,C# min,Kushner,1989,3:36,216,Connoisseur CD4181/2,9118b-01,-,mazurka41-1/pid9118b-01,11
+41.2,E min,Kushner,1989,2:29,149,Connoisseur CD4181/2,9118b-02,-,mazurka41-2/pid9118b-02,11
+41.3,B maj,Kushner,1989,1:17,77,Connoisseur CD4181/2,9118b-03,-,mazurka41-3/pid9118b-03,11
+41.4,A maj,Kushner,1989,1:48,108,Connoisseur CD4181/2,9118b-04,-,mazurka41-4/pid9118b-04,11
+50.1,G maj,Kushner,1989,2:22,142,Connoisseur CD4181/2,9118b-05,-,mazurka50-1/pid9118b-05,11
+50.2,A maj,Kushner,1989,3:09,189,Connoisseur CD4181/2,9118b-06,-,mazurka50-2/pid9118b-06,11
+50.3,C# min,Kushner,1989,4:50,290,Connoisseur CD4181/2,9118b-07,-,mazurka50-3/pid9118b-07,11
+56.1,B maj,Kushner,1989,4:26,266,Connoisseur CD4181/2,9118b-08,-,mazurka56-1/pid9118b-08,11
+56.2,C maj,Kushner,1989,1:53,113,Connoisseur CD4181/2,9118b-09,-,mazurka56-2/pid9118b-09,11
+56.3,C min,Kushner,1989,5:49,349,Connoisseur CD4181/2,9118b-10,-,mazurka56-3/pid9118b-10,11
+59.1,A min,Kushner,1989,4:24,264,Connoisseur CD4181/2,9118b-11,-,mazurka59-1/pid9118b-11,11
+59.2,A maj,Kushner,1989,3:06,186,Connoisseur CD4181/2,9118b-12,-,mazurka59-2/pid9118b-12,11
+59.3,F# min,Kushner,1989,3:50,230,Connoisseur CD4181/2,9118b-13,-,mazurka59-3/pid9118b-13,11
+63.1,B maj,Kushner,1989,2:19,139,Connoisseur CD4181/2,9118b-14,-,mazurka63-1/pid9118b-14,11
+63.2,F min,Kushner,1989,2:02,122,Connoisseur CD4181/2,9118b-15,-,mazurka63-2/pid9118b-15,11
+63.3,C# min,Kushner,1989,2:08,128,Connoisseur CD4181/2,9118b-16,precor,mazurka63-3/pid9118b-16,11
+67.1,G maj,Kushner,1989,1:16,76,Connoisseur CD4181/2,9118b-19,-,mazurka67-1/pid9118b-19,11
+67.2,G min,Kushner,1989,2:09,129,Connoisseur CD4181/2,9118b-20,-,mazurka67-2/pid9118b-20,11
+67.3,C maj,Kushner,1989,1:36,96,Connoisseur CD4181/2,9118b-21,-,mazurka67-3/pid9118b-21,11
+67.4,A min,Kushner,1989,3:00,180,Connoisseur CD4181/2,9118b-22,-,mazurka67-4/pid9118b-22,11
+68.1,C maj,Kushner,1989,1:51,111,Connoisseur CD4181/2,9118b-23,-,mazurka68-1/pid9118b-23,11
+68.2,A min,Kushner,1989,2:10,130,Connoisseur CD4181/2,9118b-24,-,mazurka68-2/pid9118b-24,11
+68.3,F maj,Kushner,1989,3:09,189,Connoisseur CD4181/2,9118b-25,-,mazurka68-3/pid9118b-25,11
+68.4,F min,Kushner,1989,2:17,137,Connoisseur CD4181/2,9118b-26,-,mazurka68-4/pid9118b-26,11
+41.2,E min,Luisada,1991,2:23,143,DG 463054-2,9055-26,-,mazurka41-2/pid9055-26,12
+41.3,B maj,Luisada,1991,1:19,79,DG 463054-2,9055-27,-,mazurka41-3/pid9055-27,12
+41.4,A maj,Luisada,1991,2:14,134,DG 463054-2,9055-28,-,mazurka41-4/pid9055-28,12
+41.1,C# min,Luisada,1991,3:29,209,DG 463054-2,9055-29,-,mazurka41-1/pid9055-29,12
+50.1,G maj,Luisada,1991,2:34,154,DG 463054-2,9055b-01,-,mazurka50-1/pid9055b-01,12
+50.2,A maj,Luisada,1991,3:44,224,DG 463054-2,9055b-02,-,mazurka50-2/pid9055b-02,12
+50.3,C# min,Luisada,1991,5:25,325,DG 463054-2,9055b-03,-,mazurka50-3/pid9055b-03,12
+56.1,B maj,Luisada,1991,4:53,293,DG 463054-2,9055b-04,-,mazurka56-1/pid9055b-04,12
+56.2,C maj,Luisada,1991,1:43,103,DG 463054-2,9055b-05,-,mazurka56-2/pid9055b-05,12
+56.3,C min,Luisada,1991,6:09,369,DG 463054-2,9055b-06,-,mazurka56-3/pid9055b-06,12
+59.1,A min,Luisada,1991,3:50,230,DG 463054-2,9055b-07,tap05,mazurka59-1/pid9055b-07,12
+59.2,A maj,Luisada,1991,2:45,165,DG 463054-2,9055b-08,-,mazurka59-2/pid9055b-08,12
+59.3,F# min,Luisada,1991,3:38,218,DG 463054-2,9055b-09,-,mazurka59-3/pid9055b-09,12
+63.1,B maj,Luisada,1991,2:11,131,DG 463054-2,9055b-10,-,mazurka63-1/pid9055b-10,12
+63.2,F min,Luisada,1991,1:56,116,DG 463054-2,9055b-11,-,mazurka63-2/pid9055b-11,12
+63.3,C# min,Luisada,1991,2:19,139,DG 463054-2,9055b-12,precor,mazurka63-3/pid9055b-12,12
+67.1,G maj,Luisada,1991,1:22,82,DG 463054-2,9055b-13,precor,mazurka67-1/pid9055b-13,12
+67.2,G min,Luisada,1991,2:10,130,DG 463054-2,9055b-14,-,mazurka67-2/pid9055b-14,12
+67.3,C maj,Luisada,1991,1:37,97,DG 463054-2,9055b-15,-,mazurka67-3/pid9055b-15,12
+67.4,A min,Luisada,1991,2:55,175,DG 463054-2,9055b-16,tap05,mazurka67-4/pid9055b-16,12
+68.1,C maj,Luisada,1991,1:47,107,DG 463054-2,9055b-17,-,mazurka68-1/pid9055b-17,12
+68.2,A min,Luisada,1991,3:05,185,DG 463054-2,9055b-18,tap05,mazurka68-2/pid9055b-18,12
+68.3,F maj,Luisada,1991,1:47,107,DG 463054-2,9055b-19,xprecor,mazurka68-3/pid9055b-19,12
+68.4,F min,Luisada,1991,4:32,272,DG 463054-2,9055b-20,-,mazurka68-4/pid9055b-20,12
+50.1,G maj,Magaloff,1978,2:18,138,Phillips 426 817/29-2,9074g-01,-,mazurka50-1/pid9074g-01,13
+50.2,A maj,Magaloff,1978,3:08,188,Phillips 426 817/29-2,9074g-02,-,mazurka50-2/pid9074g-02,13
+50.3,C# min,Magaloff,1978,5:29,329,Phillips 426 817/29-2,9074g-03,-,mazurka50-3/pid9074g-03,13
+56.1,B maj,Magaloff,1978,4:06,246,Phillips 426 817/29-2,9074g-04,-,mazurka56-1/pid9074g-04,13
+56.2,C maj,Magaloff,1978,1:46,106,Phillips 426 817/29-2,9074g-05,-,mazurka56-2/pid9074g-05,13
+56.3,C min,Magaloff,1978,5:46,346,Phillips 426 817/29-2,9074g-06,-,mazurka56-3/pid9074g-06,13
+59.1,A min,Magaloff,1978,4:15,255,Phillips 426 817/29-2,9074g-07,-,mazurka59-1/pid9074g-07,13
+59.2,A maj,Magaloff,1978,2:42,162,Phillips 426 817/29-2,9074g-08,-,mazurka59-2/pid9074g-08,13
+59.3,F# min,Magaloff,1978,3:39,219,Phillips 426 817/29-2,9074g-09,-,mazurka59-3/pid9074g-09,13
+63.1,B maj,Magaloff,1978,1:57,117,Phillips 426 817/29-2,9074g-10,-,mazurka63-1/pid9074g-10,13
+63.2,F min,Magaloff,1978,2:08,128,Phillips 426 817/29-2,9074g-11,-,mazurka63-2/pid9074g-11,13
+63.3,C# min,Magaloff,1978,2:21,141,Phillips 426 817/29-2,9074g-12,precor,mazurka63-3/pid9074g-12,13
+67.1,G maj,Magaloff,1978,2:44,164,Phillips 426 817/29-2,9074g-13,-,mazurka67-1/pid9074g-13,13
+67.2,G min,Magaloff,1978,3:20,200,Phillips 426 817/29-2,9074g-14,-,mazurka67-2/pid9074g-14,13
+67.3,C maj,Magaloff,1978,1:15,75,Phillips 426 817/29-2,9074g-15,-,mazurka67-3/pid9074g-15,13
+67.4,A min,Magaloff,1978,1:50,110,Phillips 426 817/29-2,9074g-16,-,mazurka67-4/pid9074g-16,13
+68.1,C maj,Magaloff,1978,1:24,84,Phillips 426 817/29-2,9074g-17,-,mazurka68-1/pid9074g-17,13
+68.2,A min,Magaloff,1978,2:55,175,Phillips 426 817/29-2,9074g-18,-,mazurka68-2/pid9074g-18,13
+68.3,F maj,Magaloff,1978,1:41,101,Phillips 426 817/29-2,9074g-19,precor,mazurka68-3/pid9074g-19,13
+68.4,F min,Magaloff,1978,3:27,207,Phillips 426 817/29-2,9074g-20,-,mazurka68-4/pid9074g-20,13
+41.1,C# min,Ohlsson,1970,3:12,192,Muza CK 1025,6100021-09,-,mazurka41-1/pid6100021-09,16
+41.2,E min,Ohlsson,1970,2:25,145,Muza CK 1025,6100021-07,-,mazurka41-2/pid6100021-07,16
+41.4,A maj,Ohlsson,1970,1:31,91,Muza CK 1025,6100021-08,-,mazurka41-4/pid6100021-08,16
+59.1,A min,Poblocka,1980,3:39,219,Muza CK 1026,6100022-04,-,mazurka59-1/pid6100022-04,18
+59.2,A maj,Poblocka,1980,2:15,135,Muza CK 1026,6100022-05,-,mazurka59-2/pid6100022-05,18
+59.3,F# min,Poblocka,1980,3:11,191,Muza CK 1026,6100022-06,-,mazurka59-3/pid6100022-06,18
+33.2,D maj,Rubinstein,1932,2:16,136,BMG 0-9026-63002-2 ,0198-03,-,mazurka33-2/pid0198-03,20
+56.3,C min,Rubinstein,1932,4:44,284,BMG 0-9026-63002-2 ,0198-04,-,mazurka56-3/pid0198-04,20
+56.3,C min,Rubinstein,1932,4:44,284,Naxos 8.110656-57,9049b-24,-,mazurka56-3/pid9049b-24,20
+63.1,B maj,Rubinstein,1932,2:06,126,Naxos 8.110656-57,9049b-25,-,mazurka63-1/pid9049b-25,20
+63.1,B maj,Rubinstein,1932,2:07,127,BMG 0-9026-63002-2 ,0198-05,-,mazurka63-1/pid0198-05,20
+68.1,C maj,Rubinstein,1961,1:39,99,Philips 456 955-2,5667285b-08,-,mazurka68-1/pid5667285b-08,20
+68.2,A min,Rubinstein,1961,2:45,165,Philips 456 955-2,5667285b-09,tap05,mazurka68-2/pid5667285b-09,20
+68.3,F maj,Rubinstein,1961,1:26,86,Philips 456 955-2,5667285b-10,xprecor,mazurka68-3/pid5667285b-10,20
+68.4,F min,Rubinstein,1961,3:13,193,Philips 456 955-2,5667285b-11,-,mazurka68-4/pid5667285b-11,20
+41.2,E min,Sztompka,1927,2:34,154,Muza PNCD006,9085-01,-,mazurka41-2/pid9085-01,22
+41.4,A maj,Sztompka,1927,2:03,123,Muza PNCD006,9085-02,-,mazurka41-4/pid9085-02,22
+50.1,G maj,Sztompka,1927,2:37,157,Muza PNCD006,9085-03,-,mazurka50-1/pid9085-03,22
+50.2,A maj,Sztompka,1927,3:27,207,Muza PNCD006,9085-04,-,mazurka50-2/pid9085-04,22
+50.3,C# min,Sztompka,1927,5:11,311,Muza PNCD006,9085-05,-,mazurka50-3/pid9085-05,22
+67.1,G maj,Sztompka,1927,1:12,72,Muza PNCD006,9085-06,-,mazurka67-1/pid9085-06,22
+67.2,G min,Sztompka,1927,1:48,108,Muza PNCD006,9085-07,-,mazurka67-2/pid9085-07,22
+67.3,C maj,Sztompka,1927,1:33,93,Muza PNCD006,9085-08,-,mazurka67-3/pid9085-08,22
+67.4,A min,Sztompka,1927,2:37,157,Muza PNCD006,9085-09,-,mazurka67-4/pid9085-09,22
+6.1,F# min,Uninsky,1932,1:40,100,Muza PNCD006,9085-10,-,mazurka06-1/pid9085-10,23
+30.3,D maj,Uninsky,1961,2:16,136,Philips 442 574-2,9061-20,-,mazurka30-3/pid9061-20,23
+33.1,G# min,Uninsky,1961,1:42,102,Philips 442 574-2,9061-22,-,mazurka33-1/pid9061-22,23
+33.2,D maj,Uninsky,1961,2:27,147,Philips 442 574-2,9061-23,-,mazurka33-2/pid9061-23,23
+33.3,C maj,Uninsky,1961,1:53,113,Philips 442 574-2,9061-24,-,mazurka33-3/pid9061-24,23
+41.2,E min,Uninsky,1961,2:08,128,Philips 442 574-2,9061-27,-,mazurka41-2/pid9061-27,23
+41.3,B maj,Uninsky,1961,1:15,75,Philips 442 574-2,9061-28,-,mazurka41-3/pid9061-28,23
+50.1,G maj,Uninsky,1961,2:05,125,Philips 442 574-2,9061-30,-,mazurka50-1/pid9061-30,23
+63.3,C# min,Uninsky,1932,1:53,113,Muza PNCD006,9085-11,precor,mazurka63-3/pid9085-11,23
+6.2,C# min,Fiorentino,1958,2:40,160,Con. Artist 9200-2 ,9065-01,-,mazurka06-2/pid9065-01,5
+7.1,B maj,Fiorentino,1997,1:24,84,http://freenet-homepage.de/elumpe/mpegfiles.htm,7991-01,-,mazurka07-1/pid7991-01,5
+7.2,A min,Fiorentino,1958,3:15,195,Con. Artist 9200-2 ,9065-03,-,mazurka07-2/pid9065-03,5
+7.5,C maj,Fiorentino,1958,0:44,44,Con. Artist 9200-2 ,9065-06,-,mazurka07-5/pid9065-06,5
+30.2,B min,Sofronitsky,1960,1:06,66,Philips 456 970-2,5667291-15,precor,mazurka30-2/pid5667291-15,21
+30.3,D maj,Sofronitsky,1960,2:41,161,Philips 456 970-2,5667291-16,-,mazurka30-3/pid5667291-16,21
+30.4,C# min,Sofronitsky,1960,3:53,233,Philips 456 970-2,5667291-17,-,mazurka30-4/pid5667291-17,21
+33.3,C maj,Sofronitsky,1960,1:19,79,Philips 456 970-2,5667291-12,-,mazurka33-3/pid5667291-12,21
+33.4,B min,Sofronitsky,1960,5:24,324,Philips 456 970-2,5667291-13,-,mazurka33-4/pid5667291-13,21
+41.1,C# min,Sofronitsky,1951,2:44,164,SMC CD 0019,915405-10,-,mazurka41-1/pid915405-10,21
+41.1,C# min,Sofronitsky,1960,3:06,186,Philips 456 970-2,5667291-09,-,mazurka41-1/pid5667291-09,21
+41.2,E min,Sofronitsky,1960,2:17,137,Philips 456 970-2,5667291-10,-,mazurka41-2/pid5667291-10,21
+50.3,C# min,Sofronitsky,1960,5:05,305,Philips 456 970-2,5667291-18,-,mazurka50-3/pid5667291-18,21
+63.2,F min,Sofronitsky,1960,1:42,102,Philips 456 970-2,5667291-11,-,mazurka63-2/pid5667291-11,21
+68.4,F min,Sofronitsky,1960,1:43,103,Philips 456 970-2,5667291-14,-,mazurka68-4/pid5667291-14,21
+7.1,B maj,Friedman,1929,2:04,124,Selene CD-s 9908.53,9148-12,-,mazurka07-1/pid9148-12,8
+33.2,D maj,Friedman,1924,2:25,145,Selene CD-s 9908.53,9148-13,-,mazurka33-2/pid9148-13,8
+24.2,C maj,Malcuzynski,1951,2:43,163,Muza PNCD 300,9091-22,precor,mazurka24-2/pid9091-22,14
+7.3,F min,Horowitz,1932,2:25,145,Philips 456 842-2 ,5667249-03,tap20,mazurka07-3/pid5667249-03,10
+7.3,F min,Horowitz,1947,2:21,141,Philips 456 842-2 ,5667249-21,tap20,mazurka07-3/pid5667249-21,10
+17.4,A min,Horowitz,1971,4:03,243,S3K 93039 Legacy ,59340c-06,precor,mazurka17-4/pid59340c-06,10
+17.4,A min,Horowitz,1985,4:00,240,DG 419 045-2,50534-05,precor,mazurka17-4/pid50534-05,10
+17.4,A min,Perlemuter,1986,4:08,248,Nimbus NI5393,9089-15,precor,mazurka17-4/pid9089-15,17
+30.4,C# min,Perlemuter,1986,3:55,235,Nimbus NI5393,9089-16,-,mazurka30-4/pid9089-16,17
+50.3,C# min,Perlemuter,1986,5:00,300,Nimbus NI5393,9089-17,-,mazurka50-3/pid9089-17,17
+24.4,B min,Rosenthal,1929,3:49,229,Membran 222913-321,9057j-02,-,mazurka24-4/pid9057j-02,19
+24.4,B min,Rosenthal,1929,3:50,230,Biddulph LHW 040,9183-06,-,mazurka24-4/pid9183-06,19
+50.2,A maj,Rosenthal,1936,3:23,203,Appian CDAPR 7002,9184b-05,-,mazurka50-2/pid9184b-05,19
+30.4,C# min,Michelangeli,1941,3:14,194,Membran 222913-321,9057f-01,-,mazurka30-4/pid9057f-01,15
+33.4,B min,Michelangeli,1942,5:03,303,Membran 222913-321,9057f-02,-,mazurka33-4/pid9057f-02,15
+68.2,A min,Michelangeli,1941,3:01,181,Membran 222913-321,9057f-03,-,mazurka68-2/pid9057f-03,15
